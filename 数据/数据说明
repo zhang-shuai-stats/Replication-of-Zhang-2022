@@ -1,0 +1,10 @@
+名称	说明	来源
+pro2017.dta	2017中国多区域投入产出表	https://www.ceads.net.cn/data/input_output_tables
+WIOT2014.dta	2014世界投入产出表	https://www.rug.nl/ggdc/valuechain/wiod/wiod-2016-release
+CHN_tariff.dta	中国进口关税数据	http://wits.worldbank.org/WITS/WITS/Default-A.aspx?Page=Default 
+GDP2017.dta	2017年各省区GDP	https://data.stats.gov.cn/ 
+import_IO (data.xlsx)	2017中国投入产出表中间使用表（竞争型）	https://data.stats.gov.cn/ifnormal.htm?u=/files/html/quickSearch/trcc/trcc01.html&h=740
+import_FU (data.xlsx)	2017中国投入产出表最终使用表	上同
+country_id (data.xlsx)	世界投入产出表各国编码	
+world_ind (data.xlsx)	世界投入产出表行业编码	
+
